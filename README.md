@@ -1,8 +1,8 @@
 ## Point Cloud Based Window Frame and Other Indoor Objects Detection
 Created by Liuyue Xie, Zhenwei Liu, Yingjia Hu, Tiecheng Wang from Carnegie Mellon University
 
-![groundtruth](Learning-master/side_groundtruth.png =60x40)
-![prediction](Learning-master/side_predicted.png =60x40)
+![groundtruth](Learning-master/side_groundtruth.png =250x)
+![prediction](Learning-master/side_predicted.png =250x)
 
 
 ### Introduction
